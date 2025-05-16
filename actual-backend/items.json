@@ -117,6 +117,36 @@
         "stars": 4.2,
         "count": 5200
       }
+    },
+    {
+      "id": "009",
+      "image": "images/9.jpg",
+      "company": "Roadster",
+      "item_name": "Casual Sneakers",
+      "original_price": 2000,
+      "current_price": 1500,
+      "discount_percentage": 50,
+      "return_period": 14,
+      "delivery_date": "10 May 2025",
+      "rating": {
+        "stars": 4.3,
+        "count": 6100
+      }
+    },
+    {
+      "id": "010",
+      "image": "images/10.jpg",
+      "company": "DENIM",
+      "item_name": "Men Casual Shirt",
+      "original_price": 1400,
+      "current_price": 900,
+      "discount_percentage": 50,
+      "return_period": 14,
+      "delivery_date": "10 May 2025",
+      "rating": {
+        "stars": 4.1,
+        "count": 4800
+      }
     }
   ]
 }
