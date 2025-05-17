@@ -147,6 +147,21 @@
         "stars": 4.1,
         "count": 4800
       }
+    },
+    {
+      "id": "011",
+      "image": "images/11.jpg",
+      "company": "Mast & Harbour",
+      "item_name": "Women Embellished Dial Bracelet Style Straps Analogue Watch HOBMH-243L-RG",
+      "original_price": 3750,
+      "current_price": 900,
+      "discount_percentage": 50,
+      "return_period": 14,
+      "delivery_date": "10 May 2025",
+      "rating": {
+        "stars": 4.4,
+        "count": 4900
+      }
     }
   ]
 }
